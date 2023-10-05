@@ -2,7 +2,7 @@
 # Created by: Finn Kitor
 # Created on: September 27th, 2023
 # This program asks the user for the radius of
-# a circle in mm. It then calculates and displays
+# a circle in cm. It then calculates and displays
 # the circumference using tau.
 import constants
 
